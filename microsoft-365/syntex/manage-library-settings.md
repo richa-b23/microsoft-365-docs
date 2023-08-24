@@ -13,7 +13,6 @@ ms.collection:
     - enabler-strategic
     - m365initiative-syntex
 ms.localizationpriority:  medium
-ROBOTS: NOINDEX, NOFOLLOW
 description: Learn how to manage settings on a SharePoint document library with Microsoft Syntex.
 ---
 
@@ -31,7 +30,7 @@ To access library settings from a SharePoint document library, select **Settings
 
 When you apply a model to a library, Syntex automatically adds the content type and updates the default view with the labels you extracted showing as columns. Then, every time you add or edit a document in the library, Syntex processes the document again, classifying the document and extracting text from it.
 
-By default, Syntex processes a file every time the file is uploaded or edited. If you want Syntex to process new files only and not every time a file is modified, you can enable the setting.
+By default, Syntex processes a file every time the file is uploaded or edited. If you want Syntex to process new files only and not every time a file is modified, you can change the setting.
 
 ### To process new files only
 

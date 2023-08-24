@@ -43,7 +43,7 @@ Make sure that the following requirements are met:
 
 - Your organization has [Microsoft Defender for Office 365](defender-for-office-365.md) and [licenses are assigned to users](../../admin/manage/assign-licenses-to-users.md).
 
-- [Audit logging](../../compliance/audit-log-enable-disable.md) is turned on for your organization (it's on by default).
+- [Audit logging](/purview/audit-log-enable-disable) is turned on for your organization (it's on by default).
 
 - Your organization has policies defined for anti-spam, anti-malware, anti-phishing, and so on. See [Protect against threats in Office 365](protect-against-threats.md).
 
@@ -77,7 +77,7 @@ Threat Explorer is a powerful report that can serve multiple purposes, such as f
 
    On the **Explorer** page, the **Additional actions** column shows admins the outcome of processing an email. The **Additional actions** column can be accessed in the same place as **Delivery action** and **Delivery location**. Special actions might be updated at the end of Threat Explorer's email timeline, which is a new feature aimed at making the hunting experience better for admins.
 
-2. In the **View** menu, choose **Email** \> **All email** from the drop down list.
+2. In the **View** menu, choose **Email** \> **All email** from the dropdown list.
 
     :::image type="content" source="../../media/tp-InvestigateMalEmail-viewmenu.png" alt-text="The Malware drop-down list" lightbox="../../media/tp-InvestigateMalEmail-viewmenu.png":::
 
